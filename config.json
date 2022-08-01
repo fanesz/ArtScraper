@@ -1,0 +1,8 @@
+{
+    "token": "(your bot token here)",
+    "prefix": "-",
+    "reactTime": "180",
+    "CommandCooldown": "10",
+    "cooldownMessage": "Chill, command on cooldown! wait 10s",
+    "EmbedColor": "fd46bc"
+}
