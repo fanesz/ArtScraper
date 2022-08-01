@@ -1,5 +1,5 @@
 # ArtScraper
-Code for discordjs to find an art from scraping (wall.alphacoders.com)
+Code for discordjs to find an art from scraping ([wall.alphacoders.com](https://wall.alphacoders.com/))
 
 **Command**
 - `-art (art name)`
