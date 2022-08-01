@@ -5,7 +5,8 @@ Code for discordjs to find an art from scraping (wall.alphacoders.com)
 - `-art (art name)`
 
 **Feature**
-![image](https://user-images.githubusercontent.com/91197642/182110578-bd2d0696-79ab-4297-af08-7bffd0331808.png)
+
+![image](https://user-images.githubusercontent.com/91197642/182112318-1cbc3121-d2aa-4cde-b3f6-83e0acd95208.png)
 
 - Scraping every art result with max 30 images
 - ◀️, ▶️, 🔀 reaction to display other result
