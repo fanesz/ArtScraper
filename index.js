@@ -20,6 +20,10 @@ client.on('ready', () => {
 client.on('messageCreate', msg =>{
     if(msg.author.bot) return;
 
+    if(msg.content == (config.prefix+'art')){
+        msg.reply(config.prefix+'art (art name)')
+    }
+
     if(msg.content.startsWith(config.prefix+'art ')){ 
 
         if (commandcooldown.has(msg.author.id)) {
